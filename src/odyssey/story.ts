@@ -7,7 +7,7 @@ import { BIOME_LEVEL } from './levels';
 import { CHRONICLE_BEATS } from './chronicle';
 import { LORE_BEATS } from './lore';
 import { SENHOR_INTROS, SENHOR_VICTORY } from './senhores';
-import { MANOPLA_BEAT } from './manopla';
+import { MANOPLA_BEAT } from './manopla-lore';
 import type { EpicScene, StageFx } from './epic';
 
 /* ───────────────────────────── Atos ───────────────────────────── */

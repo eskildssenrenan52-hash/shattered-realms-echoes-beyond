@@ -10,7 +10,7 @@ import { TEMPLES } from './depths';
 import { ABYSS_ENTRY } from './dungeon';
 import { drawDepthProps } from './depth-props';
 import { drawSecrets, secretLights, isRealm } from './secret-play';
-import { MANOPLA_ITEM } from './manopla';
+import { MANOPLA_ITEM } from './manopla-lore';
 import { SAGA_BOSS_LOOK, sagaOnBoss, sagaOnKill, drawSaga, sagaLights, sagaPosOf, sagaWeather } from './saga-play';
 import { softHole, softGlow, Quality } from './perf';
 import { FRONTIER, FRONTIER_GATES, LEGACY_W, LEGACY_H, type FrontierBiome } from './frontier';
